@@ -1,0 +1,31 @@
+// .form-control me-2{
+//     position: absolute;
+//     top: 0;
+//     right: 20px;
+// }
+
+.btn{
+    background-color: #5970ab;
+    color:white;
+}
+.btn:hover{
+    background-color: #df5af9;
+    color: aqua;
+}
+body {
+    margin: 0; /* Remove default margin */
+  }
+  
+  .background {
+    background-image: url('/assets/images/image.jpg');
+    background-size: cover; 
+    background-position: center; 
+    min-height: 100vh; 
+    position: relative;  
+  }
+
+  
+  .navbar {
+    z-index: 10; 
+  }
+  
